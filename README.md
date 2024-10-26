@@ -36,6 +36,9 @@
 - [x] [Maximum Depth of Binary Tree](binaryTreeGeneral/maxDepth.go)
 
 
+#### **Бинарный поиск (Binary Search)**
+
+
 
 <style>
     red { color: red }
