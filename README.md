@@ -15,6 +15,13 @@
 - [x] [Best time to buy and sell stock](arrayAndString/maxProfit.go)
 - [x] [Best time to buy and sell stock II](arrayAndString/maxProfitII.go)
 
+#### **Хэш-таблица (hashmap)**
+- [x] [Ransom Note](hashmap/canConstruct.go)
+- [x] [Isomorphic Strings](hashmap/isIsomorphic.go)
+
+
+#### **Стэк (stack)**
+- [x] [Valid Parentheses](stack/isValid.go)
 
 
 <style>
