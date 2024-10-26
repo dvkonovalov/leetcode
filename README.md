@@ -18,6 +18,7 @@
 #### **Хэш-таблица (hashmap)**
 - [x] [Ransom Note](hashmap/canConstruct.go)
 - [x] [Isomorphic Strings](hashmap/isIsomorphic.go)
+- [x] [Two Sum](hashmap/twoSum.go)
 
 
 #### **Стэк (stack)**
