@@ -24,6 +24,11 @@
 - [x] [Valid Parentheses](stack/isValid.go)
 
 
+#### **Две точки (Two Pointers)**
+- [x] [Valid Palindrome](twoPointers/isPalindrome.go)
+
+
+
 <style>
     red { color: red }
     yellow { color: yellow }
