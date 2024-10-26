@@ -29,8 +29,12 @@
 - [x] [Valid Palindrome](twoPointers/isPalindrome.go)
 
 
-#### **Intervals (intervals)**
+#### **Интервалы (intervals)**
 - [x] [Summary Ranges](intervals/summaryRanges.go)
+
+#### **Бинарные деревья (Binary Tree General)**
+- [x] [Maximum Depth of Binary Tree](binaryTreeGeneral/maxDepth.go)
+
 
 
 <style>
