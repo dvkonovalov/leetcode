@@ -52,6 +52,10 @@
 - [x] [Number of 1 Bits](math/isPalindrome.go)
 
 
+#### **Разделяй и властвуй (Divide & Conquer)**
+- [x] [Convert Sorted Array to Binary Search Tree](math/isPalindrome.go)
+
+
 <style>
     red { color: red }
     yellow { color: yellow }
