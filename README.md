@@ -48,6 +48,10 @@
 - [x] [Palindrome Number](math/isPalindrome.go)
 
 
+#### **Манипуляция с битами (Bit manipulation)**
+- [x] [Number of 1 Bits](math/isPalindrome.go)
+
+
 <style>
     red { color: red }
     yellow { color: yellow }
