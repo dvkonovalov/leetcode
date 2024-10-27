@@ -44,6 +44,10 @@
 - [x] [Climbing Stairs](dp1d/climbStairs.go)
 
 
+#### **Математика (math)**
+- [x] [Palindrome Number](math/isPalindrome.go)
+
+
 <style>
     red { color: red }
     yellow { color: yellow }
