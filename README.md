@@ -37,7 +37,11 @@
 
 
 #### **Бинарный поиск (Binary Search)**
+- [x] [Search Insert Position](binarySearch/searchInsert.go)
 
+
+#### **Одномерное динамическое программирование (1D DP)**
+- [x] [Climbing Stairs](dp1d/climbStairs.go)
 
 
 <style>
