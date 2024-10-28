@@ -55,6 +55,13 @@
 #### **Разделяй и властвуй (Divide & Conquer)**
 - [x] [Convert Sorted Array to Binary Search Tree](math/isPalindrome.go)
 
+#### **Дерево бинарного поиска (Binary Search Tree)**
+- [x] [Minimum Absolute Difference in BST](binarySearchTree/getMinimumDifference.go)
+
+
+
+
+
 
 <style>
     red { color: red }
