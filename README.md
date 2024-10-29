@@ -59,6 +59,8 @@
 - [x] [Minimum Absolute Difference in BST](binarySearchTree/getMinimumDifference.go)
 
 
+#### **Бинарное дерево BFS (Binary Tree BFS)**
+- [x] [Average of Levels in Binary Tree](binaryTreeBFS/averageOfLevels.go)
 
 
 
