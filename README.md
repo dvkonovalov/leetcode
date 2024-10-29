@@ -55,6 +55,7 @@
 - [x] [Number of 1 Bits](bitManipulation/hammingWeight.go)
 - [x] [Reverse Bits](bitManipulation/reverseBits.go)
 - [x] [Add binary](bitManipulation/addBinary.go)
+- [x] [Single Number](bitManipulation/singleNumber.go)
 
 
 #### **Разделяй и властвуй (Divide & Conquer)**
