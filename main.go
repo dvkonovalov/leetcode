@@ -3,6 +3,7 @@ package main
 import (
 	"education/arrayAndString"
 	"education/binarySearch"
+	"education/bitManipulation"
 	"education/dp1d"
 	"education/hashmap"
 )
@@ -12,4 +13,5 @@ func main() {
 	hashmap.RunTask()
 	binarySearch.RunTask()
 	dp1d.RunTask()
+	bitManipulation.RunTask()
 }
