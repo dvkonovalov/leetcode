@@ -64,6 +64,9 @@
 - [x] [Average of Levels in Binary Tree](binaryTreeBFS/averageOfLevels.go)
 
 
+#### **Связанный список (Linked List)**
+- [x] [Average of Levels in Binary Tree](binaryTreeBFS/averageOfLevels.go)
+
 
 
 <style>
