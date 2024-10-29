@@ -47,6 +47,7 @@
 
 #### **Математика (math)**
 - [x] [Palindrome Number](math/isPalindrome.go)
+- [x] [Sqrt(x)](math/mySqrt.go)
 
 
 #### **Манипуляция с битами (Bit manipulation)**
