@@ -28,6 +28,9 @@
 
 #### **Две точки (Two Pointers)**
 - [x] [Valid Palindrome](twoPointers/isPalindrome.go)
+- [x] [Two Sum II - Input Array Is Sorted](twoPointers/twoSum.go)
+
+
 
 
 #### **Интервалы (intervals)**
