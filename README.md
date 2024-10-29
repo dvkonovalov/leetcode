@@ -35,6 +35,7 @@
 #### **Бинарные деревья (Binary Tree General)**
 - [x] [Maximum Depth of Binary Tree](binaryTreeGeneral/maxDepth.go)
 - [x] [Count Complete Tree Nodes](binaryTreeGeneral/countNodes.go)
+- [x] [Path Sum](binaryTreeGeneral/hasPathSum.go)
 
 
 #### **Бинарный поиск (Binary Search)**
