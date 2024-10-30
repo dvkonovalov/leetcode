@@ -34,10 +34,6 @@ func merge(intervals [][]int) [][]int {
 			ans[len(ans)-1][1] = interval[1]
 		}
 
-		if ans[len(ans)-1][0] >= interval[0] {
-			ans[len(ans)-1][0] = interval[0]
-		}
-
 	}
 	return ans
 }
