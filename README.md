@@ -82,6 +82,11 @@
 - [x] [Longest Substring Without Repeating Characters](slidingWindow/lengthOfLongestSubstring.go)
 
 
+#### **Матрица (Matrix)**
+- [x] [Valid Sudoku](matrix/isValidSudoku.go)
+
+
+
 <style>
     red { color: red }
     yellow { color: yellow }
