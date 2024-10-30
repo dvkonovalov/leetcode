@@ -6,6 +6,7 @@ import (
 	"education/bitManipulation"
 	"education/dp1d"
 	"education/hashmap"
+	"education/intervals"
 	"education/matrix"
 	"education/slidingWindow"
 )
@@ -18,4 +19,5 @@ func main() {
 	bitManipulation.RunTask()
 	slidingWindow.RunTask()
 	matrix.RunTask()
+	intervals.RunTask()
 }

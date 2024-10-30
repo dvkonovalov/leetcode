@@ -35,6 +35,7 @@
 
 #### **Интервалы (intervals)**
 - [x] [Summary Ranges](intervals/summaryRanges.go)
+- [x] [Merge intervals](intervals/merge.go)
 
 #### **Бинарные деревья (Binary Tree General)**
 - [x] [Maximum Depth of Binary Tree](binaryTreeGeneral/maxDepth.go)
