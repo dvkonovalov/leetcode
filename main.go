@@ -6,6 +6,7 @@ import (
 	"education/bitManipulation"
 	"education/dp1d"
 	"education/hashmap"
+	"education/slidingWindow"
 )
 
 func main() {
@@ -14,4 +15,5 @@ func main() {
 	binarySearch.RunTask()
 	dp1d.RunTask()
 	bitManipulation.RunTask()
+	slidingWindow.RunTask()
 }
