@@ -26,30 +26,15 @@ func merge(intervals [][]int) [][]int {
 
 	for _, interval := range intervals {
 		if ans[len(ans)-1][1] < interval[0] {
-			// [первый, первый] [второй, второй]
 			ans = append(ans, interval)
 			continue
 		}
 
-		if ans[len(ans)-1][1] >= interval[1] && ans[len(ans)-1][0] <= interval[0] {
-			// [первый, первый]
-			continue
-		}
-
-		if ans[len(ans)-1][0] >= interval[0] && ans[len(ans)-1][1] <= interval[1] {
-			// [второй, второй]
-			ans[len(ans)-1][0] = interval[0]
-			ans[len(ans)-1][1] = interval[1]
-			continue
-		}
-
-		if ans[len(ans)-1][0] <= interval[0] && ans[len(ans)-1][1] <= interval[1] {
-			// [первый, второй]
+		if ans[len(ans)-1][1] <= interval[1] {
 			ans[len(ans)-1][1] = interval[1]
 		}
 
-		if ans[len(ans)-1][0] >= interval[0] && ans[len(ans)-1][1] >= interval[1] {
-			// [второй, первый]
+		if ans[len(ans)-1][0] >= interval[0] {
 			ans[len(ans)-1][0] = interval[0]
 		}
 
