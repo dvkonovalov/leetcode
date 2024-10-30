@@ -15,6 +15,7 @@
 - [x] [Best time to buy and sell stock](arrayAndString/maxProfit.go)
 - [x] [Best time to buy and sell stock II](arrayAndString/maxProfitII.go)
 - [x] [Integer to Roman](arrayAndString/intToRoman.go)
+- [x] [Jump Game](arrayAndString/canJump.go)
 
 #### **Хэш-таблица (hashmap)**
 - [x] [Ransom Note](hashmap/canConstruct.go)
