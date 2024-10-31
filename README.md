@@ -22,6 +22,10 @@
 - [x] [Ransom Note](hashmap/canConstruct.go)
 - [x] [Isomorphic Strings](hashmap/isIsomorphic.go)
 - [x] [Two Sum](hashmap/twoSum.go)
+- [x] [Word Pattern](hashmap/wordPattern.go)
+- [x] [Valid anagram](hashmap/isAnagram.go)
+- [x] [Happy Number](hashmap/isHappy.go)
+- [x] [Contains Duplicate II](hashmap/containsNearbyDuplicate.go)
 
 
 #### **Стэк (stack)**
