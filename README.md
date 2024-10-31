@@ -83,6 +83,7 @@
 #### **Связанный список (Linked List)**
 - [x] [Average of Levels in Binary Tree](linkedList/hasCycle.go)
 - [x] [Add Two Numbers](linkedList/addTwoNumbers.go)
+- [x] [Merge Two Sorted Lists](linkedList/mergeTwoLists.go)
 
 
 #### **Скользящее окна (Sliding Window)**
