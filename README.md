@@ -43,6 +43,9 @@
 - [x] [Maximum Depth of Binary Tree](binaryTreeGeneral/maxDepth.go)
 - [x] [Count Complete Tree Nodes](binaryTreeGeneral/countNodes.go)
 - [x] [Path Sum](binaryTreeGeneral/hasPathSum.go)
+- [x] [Same Tree](binaryTreeGeneral/isSameTree.go)
+- [x] [Invert Binary Tree](binaryTreeGeneral/invertTree.go)
+- [x] [Symmetric Tree](binaryTreeGeneral/isSymmetric.go)
 
 
 #### **Бинарный поиск (Binary Search)**
