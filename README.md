@@ -78,7 +78,8 @@
 
 
 #### **Связанный список (Linked List)**
-- [x] [Average of Levels in Binary Tree](binaryTreeBFS/averageOfLevels.go)
+- [x] [Average of Levels in Binary Tree](linkedList/hasCycle.go)
+- [x] [Add Two Numbers](linkedList/addTwoNumbers.go)
 
 
 #### **Скользящее окна (Sliding Window)**
