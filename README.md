@@ -45,6 +45,8 @@
 - [x] [Summary Ranges](intervals/summaryRanges.go)
 - [x] [Merge intervals](intervals/merge.go)
 
+
+
 #### **Бинарные деревья (Binary Tree General)**
 - [x] [Maximum Depth of Binary Tree](binaryTreeGeneral/maxDepth.go)
 - [x] [Count Complete Tree Nodes](binaryTreeGeneral/countNodes.go)
@@ -52,6 +54,7 @@
 - [x] [Same Tree](binaryTreeGeneral/isSameTree.go)
 - [x] [Invert Binary Tree](binaryTreeGeneral/invertTree.go)
 - [x] [Symmetric Tree](binaryTreeGeneral/isSymmetric.go)
+- [x] [Populating Next Right Pointers in Each Node II](binaryTreeGeneral/connect.go)
 
 
 #### **Бинарный поиск (Binary Search)**
