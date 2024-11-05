@@ -103,6 +103,10 @@
 - [x] [Valid Sudoku](matrix/isValidSudoku.go)
 
 
+#### **Граф (Graph General)**
+- [x] [Number of Islands](graphGeneral/numIslands.go)
+
+
 
 <style>
     red { color: red }
