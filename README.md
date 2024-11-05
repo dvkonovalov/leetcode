@@ -17,6 +17,7 @@
 - [x] [Integer to Roman](arrayAndString/intToRoman.go)
 - [x] [Jump Game](arrayAndString/canJump.go)
 - [x] [Jump Game II](arrayAndString/jump.go)
+- [x] [Roman to Integer](arrayAndString/romanToInt.go)
 
 #### **Хэш-таблица (hashmap)**
 - [x] [Ransom Note](hashmap/canConstruct.go)
@@ -30,6 +31,7 @@
 
 #### **Стэк (stack)**
 - [x] [Valid Parentheses](stack/isValid.go)
+- [x] [Min stack](stack/minStack.go)
 
 
 #### **Две точки (Two Pointers)**
