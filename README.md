@@ -27,6 +27,7 @@
 - [x] [Valid anagram](hashmap/isAnagram.go)
 - [x] [Happy Number](hashmap/isHappy.go)
 - [x] [Contains Duplicate II](hashmap/containsNearbyDuplicate.go)
+- [x] [Group Anagrams](hashmap/groupAnagrams.go)
 
 
 #### **Стэк (stack)**

@@ -20,4 +20,6 @@ func RunTask() {
 	twoSum(nums, target)
 
 	isHappy(3)
+
+	groupAnagrams([]string{"eat", "tea", "tan", "ate", "nat", "bat"})
 }
