@@ -33,6 +33,7 @@
 #### **Стэк (stack)**
 - [x] [Valid Parentheses](stack/isValid.go)
 - [x] [Min stack](stack/minStack.go)
+- [x] [Remove Nth Node From End of List](linkedList/removeNthFromEnd.go)
 
 
 #### **Две точки (Two Pointers)**
