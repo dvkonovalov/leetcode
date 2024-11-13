@@ -118,6 +118,11 @@
 
 
 
+#### **Префиксное дерево (Trie)**
+- [x] [Implement Trie (Prefix Tree)](graphGeneral/numIslands.go)
+
+
+
 
 <style>
     red { color: red }

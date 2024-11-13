@@ -10,6 +10,7 @@ import (
 	"education/intervals"
 	"education/matrix"
 	"education/slidingWindow"
+	"education/trie"
 )
 
 func main() {
@@ -22,4 +23,5 @@ func main() {
 	matrix.RunTask()
 	intervals.RunTask()
 	graphBFS.RunTask()
+	trie.RunTask()
 }
