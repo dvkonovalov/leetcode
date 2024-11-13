@@ -113,6 +113,11 @@
 - [x] [Number of Islands](graphGeneral/numIslands.go)
 
 
+#### **Граф BFS (Graph BFS)**
+- [x] [Minimum Genetic Mutation](graphGeneral/numIslands.go)
+
+
+
 
 <style>
     red { color: red }

@@ -5,6 +5,7 @@ import (
 	"education/binarySearch"
 	"education/bitManipulation"
 	"education/dp1d"
+	"education/graphBFS"
 	"education/hashmap"
 	"education/intervals"
 	"education/matrix"
@@ -20,4 +21,5 @@ func main() {
 	slidingWindow.RunTask()
 	matrix.RunTask()
 	intervals.RunTask()
+	graphBFS.RunTask()
 }
