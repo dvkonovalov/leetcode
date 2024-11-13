@@ -89,6 +89,7 @@
 
 #### **Бинарное дерево BFS (Binary Tree BFS)**
 - [x] [Average of Levels in Binary Tree](binaryTreeBFS/averageOfLevels.go)
+- [x] [Binary Tree Right Side View](binaryTreeBFS/rightSideView.go)
 
 
 #### **Связанный список (Linked List)**
