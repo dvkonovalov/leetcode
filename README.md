@@ -18,6 +18,11 @@
 - [x] [Jump Game](arrayAndString/canJump.go)
 - [x] [Jump Game II](arrayAndString/jump.go)
 - [x] [Roman to Integer](arrayAndString/romanToInt.go)
+- [x] [Find the Index of the First Occurrence in a String](arrayAndString/strStr.go)
+- [x] [Longest Common Prefix](arrayAndString/longestCommonPrefix.go)
+- [x] [Length of Last Word](arrayAndString/lengthOfLastWord.go)
+
+
 
 #### **Хэш-таблица (hashmap)**
 - [x] [Ransom Note](hashmap/canConstruct.go)
@@ -39,6 +44,7 @@
 #### **Две точки (Two Pointers)**
 - [x] [Valid Palindrome](twoPointers/isPalindrome.go)
 - [x] [Two Sum II - Input Array Is Sorted](twoPointers/twoSum.go)
+- [x] [Is Subsequence](twoPointers/isSubsequence.go)
 
 
 
@@ -121,6 +127,24 @@
 #### **Префиксное дерево (Trie)**
 - [x] [Implement Trie (Prefix Tree)](graphGeneral/numIslands.go)
 
+
+
+#### ** (Backtracking)**
+- [x] [Implement Trie (Prefix Tree)](graphGeneral/numIslands.go)
+
+
+
+
+## <aquamarine>Other task<aquamarine>
+#### **Easy level**
+- [x] [118. Pascal's Triangle](easy_tasks/generate.go)
+- [x] [844. Backspace String Compare](easy_tasks/backspaceCompare.go)
+- [x] [3216. Lexicographically Smallest String After a Swap](easy_tasks/getSmallestString.go)
+
+
+#### **Medium level**
+- [x] [7. Reverse Integer](medium_task/reverse.go)
+- [x] [2772. Apply Operations to Make All Array Elements Equal to Zero](medium_task/checkArray.go)
 
 
 
